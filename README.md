@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 [About me](https://edwardquarm.github.io/home/) * [LinkedIn](https://www.linkedin.com/in/edward-quarm/) * [Email](edwardarthur.quarmjnr@mavs.uta.edu)
 
 I'm a numerical optimization engineer who is pushing the boundaries of discrete optimization in machine learning, operations research and energy!
