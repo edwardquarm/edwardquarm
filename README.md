@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/edward-quarm/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [About me](https://edwardquarm.github.io/home/) * [LinkedIn](https://www.linkedin.com/in/edward-quarm/) * [Email](edwardarthur.quarmjnr@mavs.uta.edu)
 
