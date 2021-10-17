@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[About me] (https://edwardquarm.github.io/home/) * LinkedIn * Email
+[About me](https://edwardquarm.github.io/home/) * LinkedIn * Email
 I'm a numerical optimization engineer who is pushing the boundaries of discrete optimization in machine learning, operations research and energy!
 
 * 🔭 I’m currently working on stochastic optimization algorithms
