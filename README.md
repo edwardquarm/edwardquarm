@@ -13,6 +13,8 @@ Numerical Optimization Engineer
 
 
 * 💬 Ask me about Semidefinite programming and Mixed-Integer Programming
+
+* Fun fact: I play the guitar
 <!--
 **edwardquarm/edwardquarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
