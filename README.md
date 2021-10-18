@@ -18,7 +18,7 @@ I'm a Numerical Optimization Engineer
 
 ### Languages and tools
 
-[! <img align="left" alt="Visual Studio Code" width="26px" scr="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />][pythonplaylist]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **edwardquarm/edwardquarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
