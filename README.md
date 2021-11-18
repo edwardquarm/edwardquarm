@@ -9,7 +9,7 @@ I'm a Numerical Optimization Engineer & Data Scientist
 
 * 🔭 I’m currently working on stochastic optimization algorithms for various applications
 
-* 🌱 I’m currently learning C++
+* 🌱 I’m currently learning Pyspark
 
 
 * 💬 Ask me about Semidefinite programming and Mixed-Integer Programming
