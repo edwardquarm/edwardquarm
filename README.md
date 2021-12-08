@@ -7,7 +7,7 @@ I'm a Numerical Optimization Engineer & Data Scientist
 
 
 
-* 🔭 I’m currently working on stochastic optimization algorithms for various applications
+* 🔭 I’m currently working on Anomaly detection algorithms in supervised learning
 
 * 🌱 I’m currently learning Pyspark
 
