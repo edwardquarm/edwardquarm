@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm a Data Scientist
+I'm a Data Scientist / Machine Learning Engineer
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://edwardquarm.github.io/home/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-quarm/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dwardarthur.quarmjnr@mavs.uta.edu)
 
@@ -9,12 +9,12 @@ I'm a Data Scientist
 
 * 🔭 I’m currently working on Anomaly detection algorithms in supervised learning
 
-* 🌱 I’m currently learning Pyspark
+* 🌱 I’m currently learning Big data tools : Pyspark (spark streaming, spark sql, spark ml), Apachebeam, kubernetes etc. 
 
 
 * 💬 Ask me about Semidefinite programming and Mixed-Integer Programming
 
-* Fun fact: I play the guitar
+* Fun fact: I play the electric guitar
 
 ### Languages and tools
 
