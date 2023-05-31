@@ -7,7 +7,7 @@ I'm a Data Scientist / Machine Learning Engineer
 
 
 
-* 🔭 I’m currently working on LLMs
+* 🔭 I’m currently working on LLMs and MLOps
 
 * 🌱 I’m currently learning Big data tools : Pyspark (spark streaming, spark sql, spark ml), Apachebeam, kubernetes etc. 
 
